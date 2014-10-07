@@ -11,5 +11,3 @@ def go_through_path(path):
             print os.path.join(root_dir, dir)
         for filename in filenames:
             print os.path.join(root_dir, filename)
-
-
