@@ -13,15 +13,3 @@ def go_through_path(path):
             print os.path.join(root_dir, filename)
 
 
-def find_file(arg,dirname,files):
-
-    for file in files:
-
-        file_path = os.path.join(dirname, file)
-
-        if os.path.isfile(file_path):
-
-            print "find file:%s" %file_path
-
-
-os.path.walk(path,find_file,())
