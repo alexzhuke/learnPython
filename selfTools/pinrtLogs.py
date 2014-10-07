@@ -1,7 +1,7 @@
 __author__ = 'modoojunko'
 
 #this scripts is used to print logs for all scripts
-
+content = "Hello World!"
 
 def print_head(content):
     print "+"*(len(content) + 2)
@@ -11,4 +11,4 @@ def print_head(content):
 
 
 
-print_head("good mornning! ChenSha,how are you")
+#print_head(content)

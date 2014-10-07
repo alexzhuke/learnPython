@@ -1,5 +1,7 @@
 __author__ = 'modoojunko'
-import os,sys
+import os
+
+path = "/Users/modoojunko/zhuke"
 
 
 def listdir(dir):
@@ -11,4 +13,4 @@ def listdir(dir):
             listdir(filepath)
         elif os.path.isfile(filepath):
             print filepath
-listdir("/Users/modoojunko/PycharmProjects/")
+listdir(path)
