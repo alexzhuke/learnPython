@@ -479,7 +479,11 @@
       <created>1412670615773</created>
       <updated>1412670615773</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add lib folder for the future">
+      <created>1412670627404</created>
+      <updated>1412670627404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
