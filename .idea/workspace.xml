@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4aab9eaf-82b2-410b-985d-032f927b447f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learnOs/learnOSlistDir/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learnOs/learnOSWalk2.py" afterPath="$PROJECT_DIR$/learnOs/learnOSWalk2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="learnPython.iws" />
@@ -478,7 +475,11 @@
       <created>1412670492504</created>
       <updated>1412670492504</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add lib folder for the future">
+      <created>1412670615773</created>
+      <updated>1412670615773</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -522,7 +523,8 @@
     </option>
     <MESSAGE value="refactor findPathForFile" />
     <MESSAGE value="refactor method" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor method" />
+    <MESSAGE value="add lib folder for the future" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lib folder for the future" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
