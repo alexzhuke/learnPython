@@ -1,6 +1,8 @@
 __author__ = 'modoojunko'
 
 import learnOs.learnOSWalk2
-path = "/Users/modoojunko/PycharmProjects"
+path = "/Users/modoojunko/zhuke"
 
-print learnOs.learnOSWalk2.go_through_path(path)
+filelist = learnOs.learnOSWalk2.go_through_path(path)
+
+print filelist
