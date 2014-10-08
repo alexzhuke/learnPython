@@ -22,7 +22,12 @@ def print_title(content):
     print_factor(content, "-")
 
 
+def print_sub_title(content):
+    print_factor(content, ":")
+
+
 if __name__ == "__main__":
     print_head(contents)
     print_sub_head(contents)
     print_title(contents)
+    print_sub_title(contents)
