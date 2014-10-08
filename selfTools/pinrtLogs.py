@@ -27,7 +27,7 @@ def print_sub_title(content):
 
 
 if __name__ == "__main__":
-    print_head(contents)
-    print_sub_head(contents)
-    print_title(contents)
-    print_sub_title(contents)
+    print_head("head")
+    print_sub_head("sub_head")
+    print_title("title")
+    print_sub_title("sub_title")
